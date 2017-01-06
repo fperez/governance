@@ -1,4 +1,4 @@
-# Project Jupyter Code of Conduct and Community Guidelines
+# Project Jupyter Code of Conduct
 
 Project Jupyter is an engaged and respectful community made up of people
 from all over the world. Your involvement helps us to further our
@@ -44,9 +44,10 @@ violations of this code outside these spaces may affect a person's ability to
 participate within them.
 
 By embracing the following principles, guidelines and actions to follow or
-avoid, you will help us make Jupyter a welcoming and productive community. If
-that doesn't answer your questions, feel free to contact us at
-[*conduct@jupyter.org*](mailto:conduct@jupyter.org).
+avoid, you will help us make Jupyter a welcoming and productive community.
+Feel free to contact us at
+[*conduct@jupyter.org*](mailto:conduct@jupyter.org) with any questions that
+you may have.
 
 
 1. **Be friendly and patient**.
@@ -87,9 +88,10 @@ that doesn't answer your questions, feel free to contact us at
      then stop
 
 6. **Moderate your expectations**. Many in our community volunteer their time
-   and/or have multiple responsibilities. It's unlikely they are purposefully
-   ignoring issues, refusing to engage in discussion, avoiding features, etc.
-   Chances are, they need to attend to other aspects of their lives.
+   and/or have multiple responsibilities. Please respect that maintainers
+   and contributors choose how they spend their time in the project. A
+   thoughtful question about your expectations is preferable to demands for
+   another person's time.
 
 7. **When we disagree, try to understand why**. Disagreements, both social and
    technical, happen all the time and Jupyter is no exception.  Try to
@@ -112,8 +114,8 @@ for everyone and we take them seriously.
 You can file a report by emailing
 [*conduct@jupyter.org*](mailto:conduct@jupyter.org) or by filing out
 [this form](https://goo.gl/forms/sJzOIie3zde9M71T2). For more details or
-information on reporting in-person at an event, please see our Reporting
-Guidelines.
+information on reporting in-person at an event, please see our [*Reporting
+Guide - Jupyter Events*](reporting_events.md).
 
 The online form gives you the option to keep your report anonymous or request
 that we follow up with you directly. While we cannot follow up on an anonymous
